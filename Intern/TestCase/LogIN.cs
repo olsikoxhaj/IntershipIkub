@@ -14,7 +14,7 @@ namespace Intern.TestCase
         public void TestLogin()
         {
 
-            //Driver i trasheguar nga klasa prind
+            //Driver i trasheguar nga klasa prind - test PR
 
             driver.Navigate().GoToUrl(Constant.BaseUrl);
 
